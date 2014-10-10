@@ -1,6 +1,6 @@
 {
   "name": "partials",
-  "description": "Create an object of template partials from a glob of files to pass to any template engine.",
+  "description": "Load an object of partials from a glob of files to pass to any template engine.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/partials",
   "author": {
@@ -42,10 +42,12 @@
     "directories",
     "directory",
     "dirs",
+    "engine",
     "file",
     "filepath",
     "filepaths",
     "files",
+    "glob",
     "handlebars",
     "hash",
     "list",
@@ -58,6 +60,7 @@
     "partials",
     "path",
     "paths",
+    "pattern",
     "template",
     "templates"
   ]

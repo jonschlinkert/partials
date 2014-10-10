@@ -1,7 +1,7 @@
 # partials [![NPM version](https://badge.fury.io/js/partials.svg)](http://badge.fury.io/js/partials)
 
 
-> Create an object of template partials from a glob of files to pass to any template engine.
+> Load an object of partials from a glob of files to pass to any template engine.
 
 ## Install
 #### Install with [npm](npmjs.org)
